@@ -54,5 +54,3 @@ if opera == 3:
 if opera == 4:
      print(f"{num1} dividido por {num2} é igual a {divi(num1, num2)}")
 # Exibir o resultado da operação
-
-# Repetir ou encerrar o programa com base na escolha do usuário
